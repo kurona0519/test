@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.paging-style-box {
+	margin-top: 16px;
+	padding: 8px;
+	color: #ff6464;	
+	text-align: center;
+}
+
+.paging-style-box a {
+	color: #ff6464;	
+}
+
+.column-detail-box {
+	margin-top: 16px;
+	background-color: #fff;
+	
+}
+
+.column-index {
+	padding-left: 2em;
+	font-size: 14px;
+	margin-top: 8px;
+}
+	
+.column-index li {
+	padding: 8px;
+}
